@@ -11,11 +11,16 @@ The dataset is provided in the form of a csv file with each line storing a tweet
 # Libraries
 
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 
 
 # Algorithms
 Logistic Regression
+
 Multinomial Naïve Bayes algorithm
